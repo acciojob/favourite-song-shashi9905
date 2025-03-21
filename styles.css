@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.{
+	margin 0;
+	pading 0;
+	box-sizing:border-box;
+
+}
+.song{
+	height:100%;
+	width:100%;
+	background-color: black;
+}
